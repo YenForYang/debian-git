@@ -1,0 +1,10 @@
+aef23c029776fa7787c997488b905fdd  usr/bin/git-cvsserver
+559b3e6ac50c165287d46609bc3a1c9a  usr/lib/git-core/git-cvsexportcommit
+50037596efface611b07e221e4ebf6a1  usr/lib/git-core/git-cvsimport
+aef23c029776fa7787c997488b905fdd  usr/lib/git-core/git-cvsserver
+b97f1fd458ce5bcf99e211b8dd71f083  usr/share/doc/git-cvs/changelog.Debian.gz
+0ee0b4aed710e20e43f24545a0f06eb4  usr/share/doc/git-cvs/changelog.gz
+9ac18231eaddd1f422cd05dcbffe9f18  usr/share/doc/git-cvs/copyright
+a14eb63c6d278c7b76401d63f3fc41af  usr/share/man/man1/git-cvsexportcommit.1.gz
+5fe19f805adeda0856608b9c2fcf7826  usr/share/man/man1/git-cvsimport.1.gz
+e902708265cbb194e1067bef77437403  usr/share/man/man1/git-cvsserver.1.gz

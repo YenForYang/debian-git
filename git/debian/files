@@ -1,0 +1,15 @@
+git-all_2.20.1-1_all.deb vcs optional
+git-cvs_2.20.1-1_all.deb vcs optional
+git-daemon-run_2.20.1-1_all.deb vcs optional
+git-daemon-sysvinit_2.20.1-1_all.deb vcs optional
+git-dbgsym_2.20.1-1_amd64.deb debug optional automatic=yes
+git-doc_2.20.1-1_all.deb doc optional
+git-el_2.20.1-1_all.deb vcs optional
+git-email_2.20.1-1_all.deb vcs optional
+git-gui_2.20.1-1_all.deb vcs optional
+git-man_2.20.1-1_all.deb doc optional
+git-mediawiki_2.20.1-1_all.deb vcs optional
+git-svn_2.20.1-1_all.deb vcs optional
+git_2.20.1-1_amd64.deb vcs optional
+gitk_2.20.1-1_all.deb vcs optional
+gitweb_2.20.1-1_all.deb vcs optional

@@ -1,0 +1,89 @@
+Format: 1.8
+Date: Sun, 16 Dec 2018 16:53:30 -0800
+Source: git
+Binary: git git-man git-doc git-cvs git-svn git-mediawiki git-email git-daemon-run git-daemon-sysvinit git-gui gitk git-el gitweb git-all
+Architecture: source all amd64
+Version: 1:2.20.1-1
+Distribution: unstable
+Urgency: medium
+Maintainer: Gerrit Pape <pape@smarden.org>
+Changed-By: Jonathan Nieder <jrnieder@gmail.com>
+Description:
+ git        - fast, scalable, distributed revision control system
+ git-all    - fast, scalable, distributed revision control system (all subpacka
+ git-cvs    - fast, scalable, distributed revision control system (cvs interope
+ git-daemon-run - fast, scalable, distributed revision control system (git-daemon s
+ git-daemon-sysvinit - fast, scalable, distributed revision control system (git-daemon s
+ git-doc    - fast, scalable, distributed revision control system (documentatio
+ git-el     - fast, scalable, distributed revision control system (emacs suppor
+ git-email  - fast, scalable, distributed revision control system (email add-on
+ git-gui    - fast, scalable, distributed revision control system (GUI)
+ git-man    - fast, scalable, distributed revision control system (manual pages
+ git-mediawiki - fast, scalable, distributed revision control system (MediaWiki re
+ git-svn    - fast, scalable, distributed revision control system (svn interope
+ gitk       - fast, scalable, distributed revision control system (revision tre
+ gitweb     - fast, scalable, distributed revision control system (web interfac
+Closes: 707790
+Changes:
+ git (1:2.20.1-1) unstable; urgency=medium
+ .
+   * new upstream point release (see RelNotes/2.20.1.txt).
+   * package git-gui: Suggests: meld for mergetool support (thx Jens
+     Reyer; closes: #707790).
+Checksums-Sha1:
+ 0dc38d9ddcadcd95a7cf003a8837d30fafb5d66f 2888 git_2.20.1-1.dsc
+ 58dca49db21f4bebf56f8861f15800f1c57c5ee3 5359872 git_2.20.1.orig.tar.xz
+ ac1007fef6cf335583b2aa39c5029b3a3f941147 599344 git_2.20.1-1.debian.tar.xz
+ 133b0c10c5bffacd78e92c7c5b59e5a5486dffad 792064 git-all_2.20.1-1_all.deb
+ cd390459a1e0c848307ed17b8dd81a7d93170900 855024 git-cvs_2.20.1-1_all.deb
+ 92bed7073a2c7fdf91551a1e6af8876e1f42b15f 793708 git-daemon-run_2.20.1-1_all.deb
+ dd51e4ccd548184e1d0dc24560b17a0edbefe1f4 794736 git-daemon-sysvinit_2.20.1-1_all.deb
+ d17ad3bd193c645df1b95d17bfc350abf68ae45b 63376560 git-dbgsym_2.20.1-1_amd64.deb
+ 3132c7b8c9e7b8f7f57d542046006f500b0b655c 1735916 git-doc_2.20.1-1_all.deb
+ b24e43ee5027bcd9cf3381c3e8dd65d772c17cfd 794440 git-el_2.20.1-1_all.deb
+ 27c20508d700ed83ef2b1924aa41c1ba914ffad0 816144 git-email_2.20.1-1_all.deb
+ 041a105ae456d04b3d53f755645fb3693682fc3a 1001372 git-gui_2.20.1-1_all.deb
+ bd8697e3e6351a045832f037aef08ada5f8527d6 1618992 git-man_2.20.1-1_all.deb
+ 97d7eca4ad7d44524e527750d47cbf6e31658e05 807232 git-mediawiki_2.20.1-1_all.deb
+ d625a26ef0cacd2b812db5241bce23c10f0ccc4e 866268 git-svn_2.20.1-1_all.deb
+ f48e38feb6aad7f4ba680f1c9b5e0157c67c2453 15912504 git_2.20.1-1_amd64.deb
+ 9cf5952fae2377ec0680d8adc6995bec5dde8166 921784 gitk_2.20.1-1_all.deb
+ 6bb9ec45950212624e5cef246dcf9dbb87b33550 796304 gitweb_2.20.1-1_all.deb
+Checksums-Sha256:
+ d3aebc21afd1ddb51695ae2105092f3fb9885c5fe13b93dc28908ad159d17d71 2888 git_2.20.1-1.dsc
+ 9d2e91e2faa2ea61ba0a70201d023b36f54d846314591a002c610ea2ab81c3e9 5359872 git_2.20.1.orig.tar.xz
+ 92963a6eb825b83d716ce6cdecdd9442ed1e7be72c7941ce4a3a82a51bbec3dd 599344 git_2.20.1-1.debian.tar.xz
+ 81183279cd2c95b9f6374d1cef27baca026badb3694527042f9819f2d7d5d436 792064 git-all_2.20.1-1_all.deb
+ 55416c02c67d7a2a67f219ca482e85fd19a5de1952413b02edf7f0d6bbde8207 855024 git-cvs_2.20.1-1_all.deb
+ 6be2505b55fc5285135c380141a261b68db4aa9995653c52f7e824cb681c869c 793708 git-daemon-run_2.20.1-1_all.deb
+ 76cf9d999a987df4cb53918f6705b53e7fcd6a14e97c197d8f707d4548ee6dcf 794736 git-daemon-sysvinit_2.20.1-1_all.deb
+ d824c17853191372c9460c48f7bec3fa82b0816b3013fa6fc99f01eb660742ed 63376560 git-dbgsym_2.20.1-1_amd64.deb
+ d0437a65de984ed493b8c4dcd8ab274c8e2bd191158c03d6f1f0a5accd30aef3 1735916 git-doc_2.20.1-1_all.deb
+ 64046d505471231e3e41d4e65e34574c16887b4eff67845045caade21441f686 794440 git-el_2.20.1-1_all.deb
+ 09fccfe471099061493553af742a6302033b9d5562188eb2c995c90206432491 816144 git-email_2.20.1-1_all.deb
+ 51e295a8b79a342b0f2d8eeb0f30815f84ff932825672d0786feee6e93d1bc32 1001372 git-gui_2.20.1-1_all.deb
+ 1dd9f48dfe4308c6c997f768f9271d2d915723c883483b8c23f0ba5523b24c86 1618992 git-man_2.20.1-1_all.deb
+ 3febf37c7bee37d98e332d620567427a41d16d693fa8c21dbb50856f9848f7a9 807232 git-mediawiki_2.20.1-1_all.deb
+ ed1d82bfddb24b7d2522d28a1ef31afea4fcdbfcc21ab2d3b91e7ef78988e12c 866268 git-svn_2.20.1-1_all.deb
+ e199a6b6f026b0692a9839c220f25acbe2eac56883a614f1322d600864bb387a 15912504 git_2.20.1-1_amd64.deb
+ 7f7ec1f35bc55e8fc31dabf61d0de63e841498bfcca39a054b169bba738f1714 921784 gitk_2.20.1-1_all.deb
+ c59d7c804ee7b2fb891b1d1a623aad53422eaeec8164a15cde928d379f658707 796304 gitweb_2.20.1-1_all.deb
+Files:
+ fd92f7217e0d99c3a11c1dcdc036a136 2888 vcs optional git_2.20.1-1.dsc
+ 5fb4ff92b56ce3172b99c1c74c046c1a 5359872 vcs optional git_2.20.1.orig.tar.xz
+ 5205fa5be955873b16b4ebd39cec2bf8 599344 vcs optional git_2.20.1-1.debian.tar.xz
+ 33f1fee654506a1a3fde21a0c1249f06 792064 vcs optional git-all_2.20.1-1_all.deb
+ 57cf7b0c5cea0ab1c1947b0e762f8940 855024 vcs optional git-cvs_2.20.1-1_all.deb
+ 65bd8437da1ae291c0701b4f59641bfb 793708 vcs optional git-daemon-run_2.20.1-1_all.deb
+ ed6e7a242d53cb52ccfd25cdde65477d 794736 vcs optional git-daemon-sysvinit_2.20.1-1_all.deb
+ 080be3643300a2b82616c4cf11287da0 63376560 debug optional git-dbgsym_2.20.1-1_amd64.deb
+ cc5ee6af6294e89c834e0469727b155f 1735916 doc optional git-doc_2.20.1-1_all.deb
+ acf89fa63ccb11269c26d2f4abec9724 794440 vcs optional git-el_2.20.1-1_all.deb
+ 1fad00f51305d09a425d053b4323d2fc 816144 vcs optional git-email_2.20.1-1_all.deb
+ e02d2c87dda47f2db01787add4aebe75 1001372 vcs optional git-gui_2.20.1-1_all.deb
+ 142eb645ac6e721f920d6e4a9d1856cc 1618992 doc optional git-man_2.20.1-1_all.deb
+ c61e2f8826509bcc9c266aa1363f9e91 807232 vcs optional git-mediawiki_2.20.1-1_all.deb
+ 566cb28774df2bef922650bce14b4bbc 866268 vcs optional git-svn_2.20.1-1_all.deb
+ 7bb70e3657161b48c7e37e7848b25d53 15912504 vcs optional git_2.20.1-1_amd64.deb
+ 45e138479abc32ad17e4ad596ce61987 921784 vcs optional gitk_2.20.1-1_all.deb
+ cdc2730ea2b47eff390686a71b7446b8 796304 vcs optional gitweb_2.20.1-1_all.deb

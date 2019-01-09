@@ -1,0 +1,15 @@
+f81b90313fb645029b91089150751c80  usr/lib/git-core/git-svn
+b97f1fd458ce5bcf99e211b8dd71f083  usr/share/doc/git-svn/changelog.Debian.gz
+0ee0b4aed710e20e43f24545a0f06eb4  usr/share/doc/git-svn/changelog.gz
+9ac18231eaddd1f422cd05dcbffe9f18  usr/share/doc/git-svn/copyright
+e7d50424b8844df423cfd40f4def0b07  usr/share/man/man1/git-svn.1.gz
+c671e13f0c85dc4607a3690b7a9cb733  usr/share/perl5/Git/SVN.pm
+69b1f5587ed7cd4c80de4af04f86800e  usr/share/perl5/Git/SVN/Editor.pm
+5cc2e5b8e1b49b140ece924f09010ca1  usr/share/perl5/Git/SVN/Fetcher.pm
+b9f24a89f5378b1ab3588e1559b4adcb  usr/share/perl5/Git/SVN/GlobSpec.pm
+57501127bd3689ac65321f1b2244c1a7  usr/share/perl5/Git/SVN/Log.pm
+ad5e060ae2e479d154f3a0fe3e86758d  usr/share/perl5/Git/SVN/Memoize/YAML.pm
+5084525d05a4257e5c2c79cb63536308  usr/share/perl5/Git/SVN/Migration.pm
+3217746ab1daf260f7b6a4b8b5585d30  usr/share/perl5/Git/SVN/Prompt.pm
+ee6f12edbf8f36af52508ee4e671449c  usr/share/perl5/Git/SVN/Ra.pm
+eeac385d2a0194c55008b587390a1e26  usr/share/perl5/Git/SVN/Utils.pm

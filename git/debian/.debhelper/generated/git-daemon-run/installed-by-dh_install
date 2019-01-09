@@ -1,0 +1,4 @@
+./debian/git-daemon/run
+./debian/git-daemon/log/run
+./debian/git-daemon/run
+./debian/git-daemon/log/run

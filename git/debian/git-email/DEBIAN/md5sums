@@ -1,0 +1,5 @@
+88fff5e3d578dd05cdad1cca25b82343  usr/lib/git-core/git-send-email
+b97f1fd458ce5bcf99e211b8dd71f083  usr/share/doc/git-email/changelog.Debian.gz
+0ee0b4aed710e20e43f24545a0f06eb4  usr/share/doc/git-email/changelog.gz
+9ac18231eaddd1f422cd05dcbffe9f18  usr/share/doc/git-email/copyright
+ef87d52405fa5563f7d06ad8010169ec  usr/share/man/man1/git-send-email.1.gz

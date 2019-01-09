@@ -1,0 +1,10 @@
+./debian/tmp/dh-exec.WYUnwTJl/etc/emacs/site-start.d/50git-core.el
+./debian/tmp/dh-exec.WYUnwTJl/usr/lib/emacsen-common/packages/install/git
+./debian/tmp/dh-exec.WYUnwTJl/usr/lib/emacsen-common/packages/remove/git
+./contrib/emacs/git-blame.el
+./contrib/emacs/git.el
+./debian/tmp/dh-exec.SOPd3Tlc/etc/emacs/site-start.d/50git-core.el
+./debian/tmp/dh-exec.SOPd3Tlc/usr/lib/emacsen-common/packages/install/git
+./debian/tmp/dh-exec.SOPd3Tlc/usr/lib/emacsen-common/packages/remove/git
+./contrib/emacs/git-blame.el
+./contrib/emacs/git.el

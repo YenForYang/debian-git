@@ -1,0 +1,13 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+[remote "origin"]
+	url = https://repo.or.cz/r/git/debian.git/
+	fetch = +refs/heads/debian-sid:refs/remotes/origin/debian-sid
+[branch "debian-sid"]
+	remote = origin
+	merge = refs/heads/debian-sid
+[user]
+	email = Richard Yang <richard@yenforyang.com>

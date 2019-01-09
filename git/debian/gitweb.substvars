@@ -1,0 +1,3 @@
+misc:Recommends=apache2 ( >= 2.4.6-4~ )  | lynx | httpd
+misc:Depends=
+misc:Pre-Depends=

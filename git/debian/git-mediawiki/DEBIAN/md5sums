@@ -1,0 +1,7 @@
+60dd940fc33c422daaa128da9a64bc88  usr/lib/git-core/git-mw
+dc4529ca3fe3d3797d870d20a03a8efc  usr/lib/git-core/git-remote-mediawiki
+b97f1fd458ce5bcf99e211b8dd71f083  usr/share/doc/git-mediawiki/changelog.Debian.gz
+0ee0b4aed710e20e43f24545a0f06eb4  usr/share/doc/git-mediawiki/changelog.gz
+9ac18231eaddd1f422cd05dcbffe9f18  usr/share/doc/git-mediawiki/copyright
+7d5fb67e224d4f9e40dcee4f7dd87824  usr/share/doc/git-mediawiki/git-remote-mediawiki.txt
+b6f9d5892dcd6f3a225bd11cc00dd38f  usr/share/perl5/Git/Mediawiki.pm

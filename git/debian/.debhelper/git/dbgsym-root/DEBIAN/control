@@ -1,0 +1,12 @@
+Package: git-dbgsym
+Source: git
+Version: 1:2.20.1-1
+Auto-Built-Package: debug-symbols
+Architecture: amd64
+Maintainer: Gerrit Pape <pape@smarden.org>
+Installed-Size: 63230
+Depends: git (= 1:2.20.1-1)
+Section: debug
+Priority: optional
+Description: debug symbols for git
+Build-Ids: 022b0373cd371af772e5bead32667ba1b41c8190 0252361276f91ee580e7f01dcad96bb6de967fdf 1ce29d056c81f943f8bb86b98d876ab2ffbd310b 2e6d18efd1814df0ac7cfc1f908542f6cd5ac7b7 39e17d9a8179f537f281194e46e6bd19a1c7c3ef 48c9a98f25cc899d7b3412b2f617b0e93a12c5ef 4be66e4ddd216d64e66507a57e0e717cdc160314 5dbcc91e8972c1fd994cd70630d76ea99568d3b6 7806f35466cace2d09993d7c884ea0df5a2c376c 935c6152765c9fd35995d8bc64bed8641ad71738 9c10004b0275b4c6e2a4bc4811f74ae8b2259089 9c250363172be57abcf853dc5ff103c1094bef36 b4d9af840776d42bdf7631d2ba1f3fcd55a081cd c9e00ba52dbf7afc3d060ec8efec7f72320aa7de

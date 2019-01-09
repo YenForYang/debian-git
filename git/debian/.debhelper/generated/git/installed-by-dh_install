@@ -1,0 +1,8 @@
+./debian/tmp/dh-exec.0bQaJyV1/usr/share/bash-completion/completions/git
+./debian/tmp/dh-exec.0bQaJyV1/usr/lib/git-core/git-sh-prompt
+./debian/tmp/dh-exec.0bQaJyV1/etc/bash_completion.d/git-prompt
+./contrib/hooks
+./debian/tmp/dh-exec.O5ZnOc4b/usr/share/bash-completion/completions/git
+./debian/tmp/dh-exec.O5ZnOc4b/usr/lib/git-core/git-sh-prompt
+./debian/tmp/dh-exec.O5ZnOc4b/etc/bash_completion.d/git-prompt
+./contrib/hooks

@@ -1,0 +1,14 @@
+./debian/tmp/usr/lib/git-core/git-cvsexportcommit
+./debian/tmp/usr/lib/git-core/git-cvsimport
+./debian/tmp/usr/lib/git-core/git-cvsserver
+./debian/tmp/usr/share/man/man1/git-cvsexportcommit.1
+./debian/tmp/usr/share/man/man1/git-cvsimport.1
+./debian/tmp/usr/share/man/man1/git-cvsserver.1
+./debian/tmp/usr/bin/git-cvsserver
+./debian/tmp/usr/lib/git-core/git-cvsexportcommit
+./debian/tmp/usr/lib/git-core/git-cvsimport
+./debian/tmp/usr/lib/git-core/git-cvsserver
+./debian/tmp/usr/share/man/man1/git-cvsexportcommit.1
+./debian/tmp/usr/share/man/man1/git-cvsimport.1
+./debian/tmp/usr/share/man/man1/git-cvsserver.1
+./debian/tmp/usr/bin/git-cvsserver

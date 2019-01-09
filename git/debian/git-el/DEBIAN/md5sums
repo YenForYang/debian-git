@@ -1,0 +1,7 @@
+2a4f2397c8c295d8dd7940e9af28a1a2  usr/lib/emacsen-common/packages/install/git
+0eecdd115012b12ff672729601ff2725  usr/lib/emacsen-common/packages/remove/git
+b97f1fd458ce5bcf99e211b8dd71f083  usr/share/doc/git-el/changelog.Debian.gz
+0ee0b4aed710e20e43f24545a0f06eb4  usr/share/doc/git-el/changelog.gz
+9ac18231eaddd1f422cd05dcbffe9f18  usr/share/doc/git-el/copyright
+c7223546b0f93186c7a7309b8f4352ee  usr/share/git-core/emacs/git-blame.el
+fa85bdbd2f200bc15c0c0154a3e431c1  usr/share/git-core/emacs/git.el
